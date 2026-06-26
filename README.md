@@ -21,7 +21,7 @@ The system connects users, volunteers, nearby residents, hospitals, and emergenc
 
 ## Live Demo
 - Application for users: https://lovable.dev/preview/neTlICQcDjsJEBUbnuELWfKsp04MiAx1 
-- [Live Demo for emergency center] (https://f4f3f59e-af55-47d2-b1e0-04285c81dfdd-00-naf2garxjzm0.pike.replit.dev/)
+- Live Demo for emergency center: https://replit.com/join/vaetbknysugvhfh-rouatablate 
 
 ## How It Works
 1. The user presses the SOS button.
