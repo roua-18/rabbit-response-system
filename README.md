@@ -1,4 +1,4 @@
-# rabbit Response System
+# Rabbit Response System
 
 ## Overview
 Rabbit Response System is a quick emergency response platform for rural desert communities. It uses SOS alerts, volunteer support, live 3D mapping, and AI risk-zone prediction to reduce emergency delays.
