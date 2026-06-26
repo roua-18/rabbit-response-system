@@ -21,7 +21,7 @@ The system connects users, volunteers, nearby residents, hospitals, and emergenc
 
 ## Live Demo
 - Application for users: https://lovable.dev/preview/neTlICQcDjsJEBUbnuELWfKsp04MiAx1 
-- Live Demo for emergency center: https://replit.com/join/vaetbknysugvhfh-rouatablate 
+- Live Demo for emergency center: https://desert-pulse-ai-1--rouatablate.replit.app/ 
 
 ## How It Works
 1. The user presses the SOS button.
