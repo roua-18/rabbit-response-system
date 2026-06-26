@@ -20,8 +20,8 @@ The system connects users, volunteers, nearby residents, hospitals, and emergenc
 - Emergency response dashboard
 
 ## Live Demo
-application for users: f4f3f59e-af55-47d2-b1e0-04285c81dfdd-00-naf2garxjzm0.pike.replit.dev/
-Live Demo for emergency center: f4f3f59e-af55-47d2-b1e0-04285c81dfdd-00-naf2garxjzm0.pike.replit.dev/
+Application for users: (https://f4f3f59e-af55-47d2-b1e0-04285c81dfdd-00-naf2garxjzm0.pike.replit.dev/)
+Live Demo for emergency center: (https://f4f3f59e-af55-47d2-b1e0-04285c81dfdd-00-naf2garxjzm0.pike.replit.dev/)
 
 ## How It Works
 1. The user presses the SOS button.
@@ -36,11 +36,11 @@ Live Demo for emergency center: f4f3f59e-af55-47d2-b1e0-04285c81dfdd-00-naf2garx
 The project helps reduce emergency response delays, improves coordination, and supports faster action during the critical first minutes of an emergency.
 
 ## Demo screenshots
-project storyboard (Arabic, English version):
+Project storyboard (Arabic, English version):
 <img width="1535" height="1024" alt="IMG-20260627-WA0000" src="https://github.com/user-attachments/assets/b66c8620-c50a-496f-8de0-9a3d3a1a88dd" />
 <img width="1536" height="1024" alt="IMG-20260627-WA0001" src="https://github.com/user-attachments/assets/89515f59-5063-43a4-b2c2-dee5ff1b1693" /> 
 
 ## Team
-team members:
+Team members:
 Roua Bashir.
 Bushra Abdulsalam.
