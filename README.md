@@ -67,126 +67,126 @@ A control dashboard where emergency teams can view incidents, see location infor
 - Visual Storyboards: Illustrate the complete user journey, showing how users, AI, volunteers, and emergency services interact to deliver a fast, coordinated response.
 
 ## How to Run or Verify the Project
-This project is a prototype, so no installation or setup is required.
-1. Open the User App Demo to explore the emergency reporting interface and navigation.
-2. Test the SOS Flow by following the process of sending an emergency request, sharing the user’s live location, and submitting incident details.
-3. Open the Emergency Dashboard to see how operators receive, monitor, and manage incidents in real time.
-4. Review Incident Management to view emergency details, priority levels, response status, and coordination features.
-5. Explore Smart Features, including the live map simulation, nearby volunteer support, hospital routing suggestions, and AI-based risk-zone alerts.
-6. View the Storyboards to understand the complete emergency journey from incident reporting to emergency response.
+1. Open the Desert Guardian demo to explore the user experience and emergency reporting flow.
+2. Test the SOS process by sending an emergency request and sharing live location data.
+3. Open the Rabbit Response Dashboard to view incoming incidents and monitor emergency coordination.
+4. Observe incident details such as location, priority, and response status on the dashboard.
+5. Explore features like live map visualization, volunteer coordination, and emergency routing suggestions.
+6. Review visual storyboards to understand the full end-to-end emergency response journey.
 
 ## Testable Claims and Evidence
-Desert Pulse AI demonstrates practical, verifiable features through working prototypes, demos, and supporting materials included in this repository.
+The Rabbit Response System demonstrates practical, verifiable features through prototypes, simulations, and supporting materials.
+
 Prototype Validation
-* End-to-End SOS Flow: Demonstrates the complete emergency process, from submitting an SOS request to incident management through the user app and emergency dashboard.
-* User Emergency Reporting: Shows how users can quickly report emergencies and share their live location with a simple, intuitive interface.
-* Emergency Dashboard: Displays incoming incidents, locations, priorities, and response status to support real-time coordination.
-* Nearest-Help Coordination: Simulates routing to nearby volunteers, hospitals, and emergency centers to improve response efficiency.
-* Emergency Medical Profile: Allows users to store essential medical information, helping responders make faster and safer decisions.
-* AI First-Aid Assistant: Provides basic first-aid guidance while professional help is on the way. It supports, but does not replace, medical professionals.
-* AI Risk-Zone Analysis: Simulates risk prediction using factors such as traffic, weather, road conditions, distance to emergency facilities, and historical accident trends to support planning and resource allocation.
-* Visual Storyboards: Illustrate the complete emergency journey, showing how users, AI, volunteers, and responders interact throughout the process.
+* End-to-End SOS Flow: The full emergency cycle can be tested using Desert Guardian and the Rabbit Response Dashboard.
+* User Emergency Reporting: Users can instantly submit SOS alerts with location sharing during emergencies.
+* Emergency Dashboard Monitoring: Operators can view incoming incidents, live locations, and response status in real time.
+* Nearest-Help Coordination: The system simulates identifying nearby volunteers and emergency services to reduce response time.
+* Emergency Medical Profiles: Users can store optional medical information such as allergies, medications, and conditions to support responders.
+* AI First-Aid Assistant: Provides basic guidance during emergencies while professional help is on the way.
+* AI Risk-Zone Analysis: Simulates risk scoring using environmental and operational factors such as traffic, weather, road conditions, and historical data.
+* Visual Storyboards: Show the complete emergency journey from incident to resolution.
+
 AI Disclaimer
-The AI risk analysis is a simulation created for demonstration purposes. It does not predict emergencies with certainty but illustrates how AI can assist emergency teams by identifying potential high-risk areas and supporting faster, more informed decision-making.
+The AI risk analysis is a simulation for demonstration purposes only. It does not predict real emergencies but demonstrates how AI can support emergency preparedness and response planning.
 
 ## Feasibility and Deployment
-Desert Pulse AI is designed for practical, phased deployment, starting as a lightweight web or mobile platform for rural and remote communities with limited access to emergency services.
+The Rabbit Response System is designed for practical, phased implementation using widely available technologies.
 
 Initial Deployment
-The first release focuses on high-impact features:
-* SOS emergency alerts with one-tap reporting.
-* Live location sharing for faster response.
-* Volunteer coordination to connect nearby trusted helpers.
-* Emergency medical profiles with optional health information.
-* Emergency dashboard for monitoring, prioritizing, and managing incidents.
+* SOS emergency alerts
+* Live location sharing
+* Volunteer coordination
+* Emergency medical profiles
+* Centralized emergency dashboard
 
 Technical Requirements
-The system uses widely available technologies, including:
-* A responsive web or mobile platform.
-* GPS and location services.
-* A secure database for users and volunteers.
-* Emergency contact management.
-* A centralized dashboard.
-* Local hospital and emergency center information.
-These technologies are already mature, making the solution realistic to develop, deploy, and maintain while
-allowing future expansion.
+* Web or mobile-friendly application
+* GPS and mapping services
+* Secure database infrastructure
+* Emergency contact system
+* Hospital and emergency service directory
+* Dashboard for operators and coordinators
+These components are based on existing technologies, making deployment realistic and cost-effective.
 
 Collaboration
-Successful deployment would involve partnerships with local authorities, hospitals, emergency services, volunteer organizations, and community members to ensure fast, reliable emergency response.
+Successful deployment requires coordination with:
+* Local authorities
+* Hospitals and healthcare providers
+* Emergency response teams
+* Volunteer networks
+* Community users
 
 Privacy and AI
-Emergency medical profiles are optional, and personal information is shared only during active emergencies with authorized responders. The AI first-aid assistant provides basic guidance while professional help is on the way and is designed to support—not replace—emergency personnel.
+Emergency medical profiles are optional and shared only during active emergencies with authorized responders. AI tools provide support but do not replace professional emergency services.
 
 Future Development
-Future versions could integrate with official emergency systems, real-time traffic and weather data, AI-assisted resource allocation, secure responder communication, and analytics to strengthen emergency preparedness and coordination.
+* Integration with official emergency dispatch systems
+* Real-time traffic and weather data
+* Advanced AI prioritization tools
+* Secure responder communication systems
+* Expanded analytics for emergency planning
 
 ## Cost, Resources, and Maintenance
-Desert Pulse AI is designed as a cost-effective solution that can begin as a pilot without expensive infrastructure or specialized hardware. It relies on widely available web technologies, cloud services, GPS, and AI-assisted features, making deployment practical and scalable.
-
+The system is designed to be cost-effective and scalable.
 Pilot Resources
-A pilot deployment requires:
-* A small technical team to maintain the app, dashboard, and cloud services.
-* A verified volunteer network.
-* A directory of hospitals, clinics, police stations, and emergency centers.
-* GPS and digital mapping services.
-* A secure database with encryption and access controls.
-* Privacy and data protection policies.
-* Partnerships with local authorities for testing and future deployment.
+* Small development and maintenance team
+* Verified volunteer network
+* Emergency services directory (hospitals, clinics, police, ambulance)
+* GPS and mapping tools
+* Secure database with encryption
+* Privacy and data protection policies
+* Partnerships with local authorities
 
-Ongoing Maintenance
-To ensure reliability, the platform requires:
-* Regular updates to volunteer and emergency contact information.
-* Maintenance of GPS, maps, and routing services.
-* Protection of medical profile permissions and user privacy.
-* Updates to AI first-aid guidance using approved medical practices.
-* Continuous improvement of AI risk analysis as more data becomes available.
-* Security updates, bug fixes, and performance monitoring.
+Maintenance Requirements
+* Updating volunteer and emergency contact data
+* Ensuring GPS and mapping accuracy
+* Maintaining secure access to medical profiles
+* Updating AI first-aid guidance
+* Improving risk analysis models over time
+* System monitoring, bug fixes, and security updates
 
-sustainability 
-The platform follows a phased deployment strategy, starting with a pilot before expanding to larger regions and integrating with official emergency systems. This approach reduces costs and risk while allowing continuous improvement through user feedback and partnerships, ensuring long-term sustainability.
+Sustainability
+The system uses a phased rollout approach, allowing gradual expansion while minimizing cost and operational risk.
 
 ## Scalability
-Desert Pulse AI is built to scale beyond Al Qua’a. Its location-independent architecture allows the same platform to be adapted for other rural communities by updating local data while keeping the core system unchanged.
+The Rabbit Response System is designed to scale across regions without redesigning the core platform.
 
 Expansion Requirements
-Deploying the platform in a new region requires:
-* Local maps and GPS coverage.
-* A verified directory of hospitals, clinics, police, and emergency centers.
-* A trusted volunteer network.
-* Local emergency contact information.
-* Region-specific data such as traffic, weather, road conditions, terrain, and historical incident trends.
-Since only local datasets need to be updated, the platform can be replicated efficiently without rebuilding the software.
+* Local maps and GPS data
+* Verified emergency services directory
+* Volunteer network per region
+* Local emergency contact integration
+* Region-specific environmental and risk data
 
-Phased Growth
-* Phase 1: SOS alerts, live location sharing, and user-responder communication.
-* Phase 2: Verified volunteers and optional emergency medical profiles.
-* Phase 3: Emergency Operations Dashboard with live monitoring and incident management.
-* Phase 4: AI-assisted features, including risk analysis, emergency prioritization, and decision support.
-* Phase 5: Expansion to additional communities through integration with local emergency organizations and healthcare providers.
+Only local data changes; the core system remains the same, enabling fast replication across new areas.
+
+Phased Scaling Strategy
+* Phase 1: SOS alerts and live tracking
+* Phase 2: Volunteer and medical profile integration
+* Phase 3: Emergency dashboard deployment
+* Phase 4: AI-assisted decision support
+* Phase 5: Regional and national expansion
 
 Long-Term Vision
-With its modular design, Desert Pulse AI can expand from a community-focused solution into a regional or national emergency response platform. New locations and services can be added with minimal changes, ensuring sustainable growth while maintaining a consistent user experience and supporting faster, smarter emergency coordination.
-
-## Prototype testing
-- Tested SOS-to-dashboard flow using the live user app and emergency center demo.
-- Tested nearest-help display for volunteers, hospitals, and emergency centers.
-- Tested AI risk-zone dashboard using simulated traffic, weather, road condition, and historical accident factors.
+The system can evolve into a large-scale emergency coordination platform connecting communities, responders, and healthcare providers across multiple regions.
 
 ## Impact and Relevance
-Desert Pulse AI addresses a major challenge faced by rural and desert communities: delayed emergency response caused by long distances, limited communication, and the lack of nearby responders. By combining live location sharing, AI-assisted decision support, and community volunteer coordination, the platform helps improve response during the critical first minutes of an emergency.
-Rather than replacing emergency services, Desert Pulse AI strengthens collaboration between citizens, volunteers, healthcare providers, and official emergency authorities, creating a faster and more coordinated emergency response system.
+The Rabbit Response System addresses critical challenges in rural and desert areas, where emergency response is often delayed due to distance and limited infrastructure.
 
 Community Impact
-The platform helps communities by:
-* Enabling faster location of people through live GPS tracking.
-* Connecting nearby verified volunteers before professional responders arrive.
-* Providing optional emergency medical profiles to support safer treatment.
-* Improving coordination through a centralized emergency dashboard with live incident updates.
-* Supporting emergency planning with AI-assisted risk-zone analysis.
-* Encouraging preparedness and stronger collaboration between communities and emergency organizations.
+* Faster location of individuals through live GPS tracking
+* Faster response through nearby volunteer coordination
+* Improved safety using emergency medical profiles
+* Better coordination through a centralized dashboard
+* AI-supported risk awareness and planning tools
+* Improved preparedness in high-risk regions
 
-Relevance to the Challenge
-Desert Pulse AI directly addresses the hackathon challenge by solving a real problem affecting people living, working, and traveling in remote desert areas. Its practical design, AI-assisted features, and scalable architecture demonstrate how technology can improve emergency communication, coordination, and public safety while creating meaningful social impact.
+Social Impact
+The system strengthens collaboration between citizens, volunteers, healthcare providers, and emergency services, improving overall emergency response efficiency and community resilience.
+
+Relevance to Challenge
+The project directly addresses emergency response delays in remote environments by improving communication, coordination, and response speed using practical, scalable technology.
 
 ## Project storyboard
 Project storyboard (Arabic, English version):
