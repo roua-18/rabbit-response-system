@@ -8,7 +8,7 @@ These two parts connect the person who needs help with nearby volunteers and off
 
 ## Challenge and Problem
 We chose challenge 2 — Reaching people quickly across a dispersed community. 
-Rural desert areas have long distances between people, hospitals, and emergency centers. This can delay help during accidents or medical emergencies.
+- Rural desert areas have long distances between people, hospitals, and emergency centers. This can delay help during accidents or medical emergencies.
 The main problem is not only the distance. It is also the difficulty of quickly finding the person, knowing who is nearby, understanding basic medical risks, and coordinating between community support and official emergency responders.
 
 ## Target Users
