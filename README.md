@@ -24,9 +24,9 @@ The main problem is not only the distance. It is also the difficulty of quickly 
 Rabbit Response System connects users, trusted volunteers, nearby residents, hospitals, and emergency services through a single emergency response platform.
 An important part of the solution is the presence of trusted volunteers network. Each cluster or residential area can have its own group of registered and verified volunteers. When an SOS alert is sent, the system notify the closest local volunteer group first, helping someone nearby to reach the person before official emergency services arrive.
 When someone needs help, they can send an SOS alert using the application. The system shares their live location, provides important emergency medical profile information, and displays the incident on the emergency center dashboard. This helps reduce the time needed to locate the person, understand the situation, and coordinate the fastest response.
-**User Emergency App**
+- **User Emergency App**
 A user have emergency app where the person can send SOS alerts, share location, access AI first-aid guidance, and store an optional emergency medical profile.
-**Emergency Center Dashboard**
+- **Emergency Center Dashboard**
 A control dashboard where emergency teams can view incidents, see location information, identify nearby support, review risk zones, and coordinate response.
 
 ## Main Features
