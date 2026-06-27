@@ -72,6 +72,11 @@ The system connects users, volunteers, nearby residents, hospitals, and emergenc
 ## Scalability
 The system can be adapted to other rural communities by changing the map area, adding local hospitals and emergency centers, and registering trusted volunteers in each location.
 
+## Prototype testing
+- Tested SOS-to-dashboard flow using the live user app and emergency center demo.
+- Tested nearest-help display for volunteers, hospitals, and emergency centers.
+- Tested AI risk-zone dashboard using simulated traffic, weather, road condition, and historical accident factors.
+
 ## Impact
 The project helps reduce emergency response delays, improves coordination, and supports faster action during the critical first minutes of an emergency.
 
